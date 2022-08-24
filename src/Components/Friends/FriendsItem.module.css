@@ -1,0 +1,17 @@
+.item{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    height: 70px;
+    color:white;
+}
+.item:last-child{
+    margin-right: 0;
+}
+.item img{
+    width: 30px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 3px;
+}

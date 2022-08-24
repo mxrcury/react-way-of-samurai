@@ -1,0 +1,10 @@
+.image{
+  width: 45px;
+  /* left: 50%;
+  transform: translateX(-50%); */
+  position: absolute;
+  padding: 7px 0;
+}
+.header{
+  grid-area: h;
+}

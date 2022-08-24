@@ -1,0 +1,6 @@
+.friendsList{
+    display: grid;
+  grid-template-columns: repeat(3,3fr);
+  justify-items: center;
+  grid-gap: 5px;
+}

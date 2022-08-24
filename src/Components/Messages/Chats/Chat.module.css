@@ -1,0 +1,16 @@
+.chat{
+    color: white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    padding: 10px 0 10px 5px;
+    margin: 0 10px 11px 0;
+    text-decoration: none;
+    transition: .2s ease;
+    display: flex;
+    align-items: center;
+}
+.chat img{
+    width: 45px;
+    border-radius: 100%;
+    margin-right: 12px;
+}

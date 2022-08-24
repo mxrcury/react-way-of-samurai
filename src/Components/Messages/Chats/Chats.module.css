@@ -1,0 +1,4 @@
+.chatsItems{
+    display: flex;
+    flex-direction: column;
+}
